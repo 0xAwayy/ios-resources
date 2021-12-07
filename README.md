@@ -158,6 +158,7 @@ That should have the form `ARM XXX ddddX.x`. Take the three letters and followin
 - CodeColorist - [Mistuned Part 1: Client-side XSS to Calculator and More](https://blog.chichou.me/2021/08/04/mistuned-part-i/)
 - CodeColorist - [Mistuned Part 2: Butterfly Effect](https://blog.chichou.me/2021/08/05/mistuned-part-ii/)
 - Justin Sherman - [CVE-2021-30656 kernel info leak](https://jsherman212.github.io/CVE-2021-30656/)
+- Justun Sherman - [Popping iOS <=14.7 with IOMFB](https://jsherman212.github.io/2021/11/28/popping_ios14_with_iomfb.html)
 
 ## Other Lists
 
